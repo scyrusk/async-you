@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^2.1.2",
+    "concat-stream": "^1.5.2"
+  }
+}
